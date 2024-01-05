@@ -5,12 +5,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eilleen-maria-gutierrez-acosta-181b99246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5mXEHu4IRSmXCL%2Fc%2F%2FEAJg%3D%3D) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eilleenmarialipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5mXEHu4IRSmXCL%2Fc%2F%2FEAJg%3D%3D) 
 
-
-<a href="mailto:egutierrezacosta85@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 
 
 # 💻 Tech Stack:
