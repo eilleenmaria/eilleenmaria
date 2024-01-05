@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center"># 💫 About Me:</h1>
+<div>
+</div>
 👋 Hi, I’m @eilleenmaria<br><br>I consider myself passionate about programming, proactive, self-taught and confident in giving my best.<br>If you need collaboration or help on any project, do not hesitate to contact me.<br><br>
 
 
