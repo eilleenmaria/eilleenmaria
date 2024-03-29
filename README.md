@@ -18,6 +18,7 @@ I consider myself passionate about programming, proactive, self-taught and confi
 ## 💻 <span style="color: #3498DB">***TECH STACK :***</span> 
 
 ### <span style="color: #5DADE2 ">Frameworks</span> 
+<p>
 <!--badge angular-->
 <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
 <!--badge bootstrap -->
@@ -38,14 +39,19 @@ I consider myself passionate about programming, proactive, self-taught and confi
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <!--badge js-->
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!--badge npm-->
+ <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
 
 
 ### <span style="color: #5DADE2 ">Database</span> 
 
+<p>
 <!--badge mysql-->
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <!--badge mongodb-->
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### <span style="color: #5DADE2 ">Version Control</span> 
 <p>
