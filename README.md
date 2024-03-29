@@ -26,7 +26,11 @@ I consider myself passionate about programming, proactive, self-taught and confi
 <!-- badge nodejs-->
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
+</p>
+
 ### <span style="color: #5DADE2 ">Languages</span> 
+
+<p>
 <!-- badge html-->
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <!--badge css-->
