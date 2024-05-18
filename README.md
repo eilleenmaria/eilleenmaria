@@ -28,9 +28,9 @@ I consider myself passionate about programming, proactive, self-taught and confi
 <!-- badge react-->
 <img alt="React" src="https://img.shields.io/badge/react-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <!-- badge webpack-->
-<img alt="Webpack" src="https://img.shields.io/badge/webpack-%2343853D.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
 <!-- badge Spring boot-->
-<img alt="Spring boot" src="https://img.shields.io/badge/Spring_Boot-%2343853D.svg?style=for-the-badge&logo=spring-boot"/>
+<img alt="Spring boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 
 </p>
 
