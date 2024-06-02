@@ -14,6 +14,9 @@ I consider myself passionate about programming, proactive, self-taught and confi
 <a href= "https://linkedin.com/in/eilleenmaria/">
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge">
 </a>
+<a href="https://www.facebook.com/share/1mnTgD4faNwTgWpi/?mibextid=qi2Omg">
+        <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="svg facebook">
+    </a>
 
 
 ## 💻 <span style="color: #3498DB">***TECH STACK :***</span> 
