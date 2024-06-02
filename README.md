@@ -17,7 +17,7 @@ I consider myself passionate about programming, proactive, self-taught and confi
 <a href="https://www.facebook.com/share/PCQg3UR9yvsHmHZw/?mibextid=qi2Omg">
         <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="svg facebook">
     </a>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt=""><p>egutierrezacosta85@gmail.com</p>
 
 ## 💻 <span style="color: #3498DB">***TECH STACK :***</span> 
 
