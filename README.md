@@ -12,9 +12,9 @@ I consider myself passionate about programming, proactive, self-taught and confi
 
 <!-- badge linkedin-->
 <a href= "https://linkedin.com/in/eilleenmaria/">
- <img src="linkedin.svg">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge">
 </a>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eilleenmaria/)
+
 
 ## 💻 <span style="color: #3498DB">***TECH STACK :***</span> 
 
